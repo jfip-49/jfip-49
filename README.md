@@ -1,6 +1,6 @@
-## Hi, I'm Viraaj Sharan 
+## Hi, I'm Viraaj
 
-Sophomore - Mechatronics @ SRM
+Third Year Student - Mechatronics @ SRM
 
 
 # 💻 Tech Stack:
